@@ -1,0 +1,23 @@
+.display-grid  {
+    height: 360px;
+    width: 360px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #0B64B0;
+}
+.display-grid div {
+    height: 20px;
+    width: 20px;
+}
+.snek-head {
+    background-color: yellow;
+}
+.snek-body {
+    background-color: violet;
+}
+.snek-tail {
+    background-color: yellowgreen;
+}
+.cherry {
+    background-color: red;
+}
